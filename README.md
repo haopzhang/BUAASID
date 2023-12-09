@@ -1,4 +1,4 @@
 # BUAASID
 
-https://bhpan.buaa.edu.cn:443/link/44C6C9C35AAB269C28D50FD7FE8CE3F8
-https://bhpan.buaa.edu.cn:443/link/AB2C8EA9AE1B02048351EA1769421C16
+https://bhpan.buaa.edu.cn/anyshare/zh-cn/link/AAF2B77D31ED8544709608AB54B2D16378
+https://bhpan.buaa.edu.cn/anyshare/zh-cn/link/AA05B76D43930D4B51B58D0371B16211C4
